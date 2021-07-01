@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**I am Subham Kumar currently a pre-final year engineering student. I am and entusiast learner and love to explore new techonologies and possibilities in software industry. Perfection and optimization has been my tools in developing software project. I also have intermediate knowledge of web application development**  
+**I am Subham Kumar currently a pre-final year engineering student.Perfection and optimization has been my tools in developing software project. I have intermediate knowledge of web application development**  
+**I am an entusiast learner and love to explore new techonologies and possibilities in software industry.**  
+
   
 
 - 👀 I’m interested in Web Application Development
