@@ -1,7 +1,7 @@
 ### Hey there 👋😄
 
-**I am Subham Kumar currently a pre-final year Engineering Student. "Perfection" and "Optimization" has been my tools in developing software project. I have an intermediate knowledge of Web Development Technology.**  
-**I am an enthusiast learner and love to explore new technologies and possibilities in software industry.**  
+**I am Subham Kumar currently a pre-final year Engineering Student. "Perfection" and "Optimization" has been my tools in developing a software project. I have an intermediate knowledge of Web Development Technology.**  
+**I am an enthusiast learner and love to explore new technologies and possibilities in the software industry.**  
 
   
 
