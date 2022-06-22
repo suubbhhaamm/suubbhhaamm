@@ -5,10 +5,10 @@
 
   
 
-- 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning Asp.Net Core MVC and JavaScript TensorFlow
-- 👯 I’m looking to collaborate on Java, Dot Net or JS project
-- 🤔 I’m looking for help with JavaScript TensorFlow and Machine Learning
+- 👀 I’m interested in Web Application Development and Salesforce
+- 🌱 I’m currently learning Salesforce and LWC
+- 👯 I’m looking to collaborate on Java, Dot Net or Salesforce project
+- 🤔 I’m looking for help with LWC and Vlocity
 - 💬 Ask me about Web Development, if I don't know then surely will figure it out together!!
 - 📫 How to reach me: 11subhu@gmail.com or [LinkedIn](https://www.linkedin.com/in/subham-kumar-3133781b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJRo7XDNXTaKoihLC5uhL9w%3D%3D)
 - 😄 Pronouns: he/him
